@@ -1,0 +1,25 @@
+nav {
+	background-color: #008080 !important;
+	min-height: 50px;
+	/*padding: 5px 0 0 5px;*/
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size: 28px !important;
+	margin: 0 10px 0 10px;
+	line-height: 64px;
+}
+
+nav a:hover {
+	color: black;
+}
+
+.submitbtn {
+	background-color: #008080 !important;
+}
+
+.closeable:hover {
+	color: orange;
+}
